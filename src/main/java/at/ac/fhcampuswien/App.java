@@ -7,11 +7,13 @@ public class App {
     //todo Task 1
     public void sayHelloWorld(){
         // input your solution here
+        System.out.println("Hello World!");
     }
 
     //todo Task 2
     public void helloRobot(){
         // input your solution here
+
     }
 
     //todo Task 3
